@@ -3,7 +3,7 @@ This repository lists deadline countdowns for targeted conferences.
 > referencing [sec-deadlines/sec-deadlines.github.io](https://github.com/sec-deadlines/sec-deadlines.github.io)
 
 ## 添加/更新会议（How to add or update a conference）
-![Update](./static/img/update.png)
+![Update](./static/img/update.jpg)
 > We all share responsibility for keeping information up to date
 
 1. 打开并编辑 `_data/conferences.yml`
