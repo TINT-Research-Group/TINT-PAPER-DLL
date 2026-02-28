@@ -16,7 +16,7 @@
     - "2025-11-13 23:59"
   comment: Abstract registration required (1 week before deadline AoE).
   place: San Francisco, California, USA
-  tags: [SP, CA, ASTAR]
+  tags: [SP, CA, ASTAR, TOP]
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
@@ -29,7 +29,7 @@
     - "2026-04-29 23:59"
   comment: Abstract registration required (1 week before deadline AoE).
   place: The Hague, The Netherlands
-  tags: [SP, CA, ASTAR, TRAVEL]
+  tags: [SP, CA, ASTAR, TRAVEL, TOP]
 
 - name: USENIX Security
   description: USENIX Security Symposium
@@ -42,7 +42,7 @@
     - "2026-02-05 23:59"
   comment: Abstract registration required (1 week before deadline AoE).
   place: Baltimore, MD, USA
-  tags: [SP, CA, ASTAR]
+  tags: [SP, CA, ASTAR, TOP]
 
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
@@ -55,7 +55,7 @@
     - "2025-08-06 23:59"
   comment: Abstract registration required (1 week before deadline AoE).
   place: San Diego, CA, USA
-  tags: [SP, CA, ASTAR]
+  tags: [SP, CA, ASTAR, TOP]
 
 - name: RAID
   description: International Symposium on Research in Attacks, Intrusions and Defenses
@@ -75,7 +75,7 @@
     - "2026-01-09 23:59"
     - "2026-04-21 23:59"
   place: Rome, Italy
-  tags: [SP, CC, B]
+  tags: [SP, CC, B, TRAVEL]
 
 - name: ASIACCS
   description: ACM Asia Conference on Computer and Communications Security
@@ -211,7 +211,7 @@
   comment: Dual deadlines (AoE). Abstract deadlines 2025-05-08 and 2025-09-18. EuroSys 2027 official CFP/page was not found in this check, so this entry keeps EuroSys 2026 for reference.
   date: April 27-30
   place: Edinburgh, UK
-  tags: [SYS, NET, CA, A]
+  tags: [SYS, NET, CA, A, TRAVEL]
 
 - name: MLSys
   description: Conference on Machine Learning and Systems
@@ -361,4 +361,4 @@
     - "2026-04-02 23:59"
   comment: Provisional entry. TCMF/aggregator listings show FOCS 2026 in New York, USA (Nov 8-11, 2026).
   place: New York, USA
-  tags: [MISC, CA, ASTAR]
+  tags: [MISC, CA, ASTAR, TRAVEL]
