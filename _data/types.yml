@@ -4,10 +4,12 @@
   tag: NET
 - name: Security & Privacy
   tag: SP
-- name: Trustworthy AI
+- name: Trustworthy Artificial Intelligence
   tag: TAI
 - name: System
   tag: SYS
+- name: Miscellaneous
+  tag: MISC
 
 # ===== CCF Rank =====
 - name: CCF-A
