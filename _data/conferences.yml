@@ -244,10 +244,10 @@
   dblp: https://dblp.org/db/conf/usenix/index.html
   deadline:
     - "2026-06-10 23:59"
-  comment: ATC 2026 is now an ACM conference (ACM SIGOPS).
+  comment: ATC 2026 is now an ACM conference (ACM SIGOPS). Hong Kong.
   date: November 15-18
   place: Shatin, Hong Kong
-  tags: [SYS, NET, CA, A]
+  tags: [SYS, NET, CA, A, TRAVEL]
 
 # AI
 - name: AAAI
