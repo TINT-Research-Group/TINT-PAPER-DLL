@@ -2,36 +2,28 @@
 # ===== Research Area Tags =====
 - name: Network
   tag: NET
-
 - name: Security & Privacy
   tag: SP
-
 - name: Trustworthy AI
   tag: TAI
-
 - name: System
   tag: SYS
 
 # ===== CCF Rank =====
 - name: CCF-A
   tag: CA
-
 - name: CCF-B
   tag: CB
-
 - name: CCF-C
   tag: CC
 
 # ===== CORE Rank =====
 - name: CORE A*
   tag: A*
-
 - name: CORE A
   tag: A
-
 - name: CORE B
   tag: B
-
 - name: CORE C
   tag: C
 
