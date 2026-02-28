@@ -29,6 +29,9 @@
 - name: CORE C
   tag: C
 
-# ===== Travel Tags =====
+# ===== Preference Tags =====
 - name: Travel-friendly
   tag: TRAVEL
+
+- name: Reputation
+  tag: TOP
