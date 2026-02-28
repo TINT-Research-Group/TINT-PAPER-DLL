@@ -29,7 +29,7 @@ Example record:
   deadline: ["2017-08-15 23:59"]  # must be a list
   date: April 24-26
   place: London, UK
-  tags: [SEC, PRIV]
+  tags: [SEC, TRAVEL]
 ```
 
 Descriptions of the fields:
@@ -46,6 +46,6 @@ Descriptions of the fields:
 | `timezone`    | [Timezone][5] in [tz][1] format. By default is UTC-12 ([AoE][2])                        |
 | `date`        | When the conference is happening                                                        |
 | `place`       | Where the conference is happening                                                       |
-| `tags`        | One or multiple [tags][3]: `SEC`, `PRIV`, or `CRYPTO` (topic); `CONF` or `SHOP` (venue) |
+| `tags`        | One or multiple [tags][3]: `SEC`, `TAI`, or `NET` (Area); `A` or `CB` (Rank); `TRAVEL` or `TOP`(Preference) |
 
 Fields marked with asterisk (\*) are required.
