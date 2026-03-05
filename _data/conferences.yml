@@ -249,47 +249,83 @@
   place: Shatin, Hong Kong
   tags: [SYS, NET, CA, A, TRAVEL]
 
+- name: SIGMETRICS
+  year: 2026
+  date: June 8-12
+  description: ACM SIGMETRICS 2026 (ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems)
+  link: https://www.sigmetrics.org/sigmetrics2026/
+  dblp: https://dblp.org/db/conf/sigmetrics/index
+  deadline:
+    - "2025-07-29 23:59"   
+    - "2025-10-14 23:59"  
+    - "2026-01-13 23:59"   
+  comment: Three submission cycles (Summer/Fall/Winter).
+  place: Ann Arbor, Michigan, USA (University of Michigan)
+  tags: [SYS, NET, CB, ASTAR]
+
+- name: SIGMETRICS (TBA)
+  year: 2027
+  date: June 8-12
+  description: ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems 2027
+  link: https://www.sigmetrics.org/sigmetrics2026/
+  dblp: https://dblp.org/db/conf/sigmetrics/index
+  deadline:
+    - "2026-07-29 23:59"   
+    - "2026-10-14 23:59"  
+    - "2027-01-13 23:59"   
+  comment: Three submission cycles (Summer/Fall/Winter). Waiting for announcement.
+  place: Atlanta, Georgia, USA
+  tags: [SYS, NET, CB, ASTAR]
+
 # AI
-- name: AAAI
+- name: AAAI (TBA)
   description: AAAI Conference on Artificial Intelligence
   year: 2027
   link: https://aaai.org/conference/aaai/
   dblp: https://dblp.org/db/conf/aaai/index.html
-  deadline: []
-  comment: AAAI official conference page indicates AAAI-27 will be held in Montréal, Québec, Canada, Feb 16-23, 2027. CFP
+  deadline:
+    - "2026-07-25 23:59"
+    - "2026-08-01 23:59"
+  comment: Waiting for announcement.
   date: February 16-23
   place: Montréal, Québec, Canada
   tags: [TAI, CA, ASTAR]
 
-- name: ICML
+- name: ICML (TBA)
   description: International Conference on Machine Learning
-  year: 2026
+  year: 2027
   link: https://icml.cc/
   dblp: https://dblp.org/db/conf/icml/index.html
-  deadline: []
-  comment: ICML (ML) 2027 official conference details are not yet listed on icml.cc Future Meetings page as of this update. 
+  deadline:
+    - "2027-01-23 23:59"
+    - "2027-01-28 23:59"
+  comment: Waiting for announcement.
   date: July 6-11
-  place: Seoul, South Korea
+  place: TBD
   tags: [TAI, CA, ASTAR]
 
-- name: NeurIPS
+- name: NeurIPS (TBA)
   description: Conference on Neural Information Processing Systems
-  year: 2026
+  year: 2027
   link: https://neurips.cc/
   dblp: https://dblp.org/db/conf/nips/index.html
-  deadline: []
-  comment: 2026/2027 official dates and CFP were not publicly listed on the referenced page at time of update.
+  deadline:
+    - "2027-05-05 11:59"
+    - "2027-05-07 11:59"
+  comment: Waiting for announcement.
   date: TBD
   place: TBD
   tags: [TAI, CA, ASTAR]
 
-- name: IJCAI
+- name: IJCAI (TBA)
   description: International Joint Conference on Artificial Intelligence
   year: 2027
   link: https://www.ijcai.org/future_conferences
   dblp: https://dblp.org/db/conf/ijcai/index.html
-  deadline: []
-  comment: IJCAI official future-conferences page indicates IJCAI-2027 host/date not yet announced.
+  deadline:
+    - "2027-01-12 23:59"
+    - "2027-01-19 23:59"
+  comment: Waiting for announcement.
   date: TBD
   place: TBD
   tags: [TAI, CA, ASTAR]
