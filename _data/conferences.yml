@@ -368,26 +368,26 @@
   place: Dubai, United Arab Emirates
   tags: [MISC, CA, ASTAR]
 
-- name: STOC
-  description: ACM Symposium on Theory of Computing
-  year: 2026
-  date: June 22-26
-  link: https://acm-stoc.org/stoc2026/
-  dblp: https://dblp.org/db/conf/stoc/index.html
-  deadline:
-    - "2025-11-04 16:59"
-  comment: Paper submission deadline is listed as Tuesday, Nov 4, 2025, 4:59pm EST.
-  place: Salt Lake City, Utah, USA
-  tags: [MISC, TAI, NET, CA, ASTAR]
+#- name: STOC
+  #description: ACM Symposium on Theory of Computing
+  #year: 2026
+  #date: June 22-26
+  #link: https://acm-stoc.org/stoc2026/
+  #dblp: https://dblp.org/db/conf/stoc/index.html
+  #deadline:
+    #- "2025-11-04 16:59"
+  #comment: Paper submission deadline is listed as Tuesday, Nov 4, 2025, 4:59pm EST.
+  #place: Salt Lake City, Utah, USA
+  #tags: [MISC, TAI, NET, CA, ASTAR]
 
-- name: FOCS
-  description: IEEE Symposium on Foundations of Computer Science
-  year: 2026
-  date: November 8-11
-  link: https://ieee-focs.org/
-  dblp: https://dblp.org/db/conf/focs/index.html
-  deadline:
-    - "2026-04-02 23:59"
-  comment: Provisional entry. TCMF/aggregator listings show FOCS 2026 in New York, USA (Nov 8-11, 2026).
-  place: New York, USA
-  tags: [MISC, CA, ASTAR, TRAVEL]
+#- name: FOCS
+  #description: IEEE Symposium on Foundations of Computer Science
+  #year: 2026
+  #date: November 8-11
+  #link: https://ieee-focs.org/
+  #dblp: https://dblp.org/db/conf/focs/index.html
+  #deadline:
+    #- "2026-04-02 23:59"
+  #comment: Provisional entry. TCMF/aggregator listings show FOCS 2026 in New York, USA (Nov 8-11, 2026).
+  #place: New York, USA
+  #tags: [MISC, CA, ASTAR, TRAVEL]
