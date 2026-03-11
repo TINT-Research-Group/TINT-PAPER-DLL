@@ -330,6 +330,18 @@
   place: TBD
   tags: [TAI, CA, ASTAR]
 
+- name: NeurIPS
+  description: Conference on Neural Information Processing Systems
+  year: 2026
+  link: https://neurips.cc/
+  dblp: https://dblp.org/db/conf/nips/index.html
+  deadline:
+    - "2026-05-05 11:59"
+    - "2026-05-07 11:59"
+  comment: Waiting for announcement.
+  date: December 6-12
+  place: Sydney, Australia
+  tags: [TAI, CA, ASTAR, TRAVEL]
 
 # Miscellaneous
 - name: SIGMOD
