@@ -1,7 +1,7 @@
 # security: s&p (oakland), ccs, usenix security, ndss, raid, esorics, asiaccs
 # networking: sigcomm, nsdi, conext, imc, icnp, icdcs, mobicom
 # system: sosp, osdi, eurosys, mlsys, asplos, atc
-# ai: aaai, icml, nips, ijcai 
+# ai: aaai, icml, nips
 # misc: vldb, sigmod, www, stoc, focs
 
 # Security
@@ -330,18 +330,6 @@
   place: TBD
   tags: [TAI, CA, ASTAR]
 
-- name: IJCAI (TBA)
-  description: International Joint Conference on Artificial Intelligence
-  year: 2027
-  link: https://www.ijcai.org/future_conferences
-  dblp: https://dblp.org/db/conf/ijcai/index.html
-  deadline:
-    - "2027-01-12 23:59"
-    - "2027-01-19 23:59"
-  comment: Waiting for announcement.
-  date: TBD
-  place: TBD
-  tags: [TAI, CA, ASTAR]
 
 # Miscellaneous
 - name: SIGMOD
