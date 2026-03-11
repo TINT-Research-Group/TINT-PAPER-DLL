@@ -89,15 +89,15 @@
   tags: [SP, CC, A]
 
 # Network
-- name: NSDI (TBA)
+- name: NSDI
   description: USENIX Symposium on Networked Systems Design and Implementation
   year: 2027
   date: May 11-13
-  link: https://www.usenix.org/conference/nsdi27
+  link: https://www.usenix.org/conference/nsdi27/call-for-papers
   dblp: https://dblp.org/db/conf/nsdi/index.html
   deadline:
-    - "2026-04-23 23:59"
-    - "2026-09-17 23:59"
+    - "2026-04-16 23:59"
+    - "2026-09-10 23:59"
   comment: Two deadlines. Spring abstract 2026-04-16, Fall abstract 2026-09-10.
   place: Providence, RI, USA
   tags: [NET, SYS, CA, ASTAR]
