@@ -100,7 +100,7 @@
     - "2026-09-10 23:59"
   comment: Two deadlines. Spring abstract 2026-04-16, Fall abstract 2026-09-10.
   place: Providence, RI, USA
-  tags: [NET, SYS, CA, ASTAR]
+  tags: [NS, CA, ASTAR]
   
 - name: SIGCOMM
   description: ACM SIGCOMM Conference
@@ -112,7 +112,7 @@
     - "2026-01-30 23:59"
   comment: Abstract registration required (2026-01-30 AoE shown as abstract registration).
   place: Denver, Colorado, USA
-  tags: [NET, CA, ASTAR]
+  tags: [NS, CA, ASTAR]
 
 - name: NSDI
   description: USENIX Symposium on Networked Systems Design and Implementation
@@ -125,7 +125,7 @@
     - "2025-09-18 23:59"
   comment: Two deadlines. Spring 2025-04-18, Fall 2025-09-11, 11:59 pm US PDT.
   place: Renton, WA, USA
-  tags: [NET, SYS, CA, ASTAR]
+  tags: [NS, CA, ASTAR]
 
 - name: CoNEXT
   description: International Conference on emerging Networking EXperiments and Technologies
@@ -136,9 +136,9 @@
   deadline:
     - "2025-12-12 23:59"
     - "2026-06-05 23:59"
-  comment: PACMNET/CoNEXT hybrid cycle (two submission opportunities).
+  comment: hybrid cycle (two submission opportunities).
   place: Utrecht, The Netherlands
-  tags: [NET, SYS, CB, A]
+  tags: [NS, CB, A]
 
 - name: ACM IMC
   year: 2026
@@ -150,7 +150,7 @@
     - "2026-04-29 23:59"
   comment: Abstract registration required (1 week before deadline AoE).
   place: Karlsruhe, Germany
-  tags: [NET, CB, A]
+  tags: [NS, CB, A]
 
 - name: ICNP
   description: IEEE International Conference on Network Protocols
@@ -162,7 +162,7 @@
     - "2026-05-22 23:59"
   comment: Abstract registration 2026-05-15 AoE.
   place: Tempe, Arizona, USA
-  tags: [NET, CB, A]
+  tags: [NS, CB, A]
 
 - name: ICDCS
   description: IEEE International Conference on Distributed Computing Systems
@@ -174,7 +174,7 @@
     - "2026-01-21 23:59"
   comment: Research paper abstracts and papers are both listed as 2026-01-21 (AoE) on ICDCS 2026 site/CFP.
   place: Seoul, South Korea
-  tags: [NET, SYS, CA, A]
+  tags: [NS, CA, A]
 
 - name: MobiCom
   description: ACM International Conference on Mobile Computing and Networking
@@ -187,9 +187,22 @@
     - "2026-03-13 23:59"
   comment: Two cycles (Summer/Winter); abstract registration required (Summer 2025-08-27 AoE, Winter 2026-03-06 AoE).
   place: Austin, Texas, USA
-  tags: [NET, SYS, CA, ASTAR]  
+  tags: [NS, CA, ASTAR]  
 
 # Systems
+- name: FAST
+  year: 2027
+  date: February 23-25
+  description: The 25th USENIX Conference on File and Storage Technologies
+  link: https://www.usenix.org/conference/fast27
+  dblp: https://dblp.org/db/conf/fast/index.html
+  deadline:
+    - "2026-03-17 23:59"
+    - "2026-09-15 23:59"
+  comment: Two submission cycles: spring and fall. Deadlines are AoE.
+  place: Renton, Washington, USA
+  tags: [NS, CA, ASTAR]
+
 - name: SOSP
   description: ACM Symposium on Operating Systems Principles
   year: 2026
@@ -200,7 +213,7 @@
   comment: Abstract registration deadline 2026-03-26 (AoE).
   date: September 29-October 2
   place: Prague, Czechia
-  tags: [SYS, CA, ASTAR]
+  tags: [NS, CA, ASTAR]
 
 - name: OSDI
   description: USENIX Symposium on Operating Systems Design and Implementation
@@ -211,7 +224,7 @@
   comment: USENIX lists OSDI '27 as Jul 7-9, 2027 in Baltimore, MD, USA. CFP/deadlines not publicly posted yet on the referenced listing at time of update.
   date: July 7-9
   place: Baltimore, MD, USA
-  tags: [SYS, CA, ASTAR]
+  tags: [NS, CA, ASTAR]
 
 - name: EuroSys
   description: European Conference on Computer Systems
@@ -224,7 +237,7 @@
   comment: Dual deadlines (AoE). Abstract deadlines 2025-05-08 and 2025-09-18. EuroSys 2027 official CFP/page was not found in this check, so this entry keeps EuroSys 2026 for reference.
   date: April 27-30
   place: Edinburgh, UK
-  tags: [SYS, NET, CA, A, TRAVEL]
+  tags: [NS, CA, A, TRAVEL]
 
 - name: MLSys
   description: Conference on Machine Learning and Systems
@@ -235,7 +248,7 @@
     - "2025-10-30 23:59"
   comment: MLSys 2026 conference dates May 18-22, 2026.
   place: Bellevue, WA, USA
-  tags: [SYS, TAI]
+  tags: [NS, TAI]
 
 - name: ASPLOS
   description: ACM International Conference on Architectural Support for Programming Languages and Operating Systems
@@ -248,7 +261,7 @@
   comment: ASPLOS 2027 CFP (AoE) lists two cycles Apr 15, 2026 and Sep 9, 2026. ASPLOS 2027 will be hosted in Crete, Greece.
   date: TBD
   place: Crete, Greece
-  tags: [SYS, CA, ASTAR]
+  tags: [NS, CA, ASTAR]
 
 - name: ATC
   description: ACM SIGOPS Annual Technical Conference
@@ -260,7 +273,7 @@
   comment: ATC 2026 is now an ACM conference (ACM SIGOPS). Hong Kong.
   date: November 15-18
   place: Shatin, Hong Kong
-  tags: [SYS, NET, CA, A, TRAVEL]
+  tags: [NS, NS, CA, A, TRAVEL]
 
 - name: SIGMETRICS
   year: 2026
@@ -274,7 +287,7 @@
     - "2026-01-13 23:59"   
   comment: Three submission cycles (Summer/Fall/Winter).
   place: Ann Arbor, Michigan, USA (University of Michigan)
-  tags: [SYS, NET, CB, ASTAR]
+  tags: [NS, NS, CB, ASTAR]
 
 - name: SIGMETRICS (TBA)
   year: 2027
@@ -288,7 +301,7 @@
     - "2027-01-13 23:59"   
   comment: Three submission cycles (Summer/Fall/Winter). Waiting for announcement.
   place: Atlanta, Georgia, USA
-  tags: [SYS, NET, CB, ASTAR]
+  tags: [NS, CB, ASTAR]
 
 # AI
 - name: AAAI (TBA)
@@ -356,7 +369,7 @@
     - "2025-10-17 23:59"
   comment: Four Round
   place: Bengaluru, India
-  tags: [MISC, SYS, CA, ASTAR]
+  tags: [MISC, NS, CA, ASTAR]
 
 - name: The Web Conference
   description: International Conference on the World Wide Web
@@ -378,7 +391,7 @@
     #- "2025-11-04 16:59"
   #comment: Paper submission deadline is listed as Tuesday, Nov 4, 2025, 4:59pm EST.
   #place: Salt Lake City, Utah, USA
-  #tags: [MISC, TAI, NET, CA, ASTAR]
+  #tags: [MISC, TAI, NS, CA, ASTAR]
 
 #- name: FOCS
   #description: IEEE Symposium on Foundations of Computer Science
