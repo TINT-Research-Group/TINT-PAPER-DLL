@@ -39,7 +39,7 @@
               <div class="tag-row">
                 <strong class="tag-row-label">Area:</strong>
                 {% for type in site.data.types %}
-                 {% if type.tag == "NET" or type.tag == "SP" or type.tag == "TAI" or type.tag == "SYS" or type.tag == "MISC" %}
+                 {% if type.tag == "NS" or type.tag == "SP" or type.tag == "TAI" or type.tag == "MISC" %}
                  <div class="checkbox">
                    <label>
                      <input type="checkbox" id="{{ type.tag }}-checkbox"> {{ type.name }}
