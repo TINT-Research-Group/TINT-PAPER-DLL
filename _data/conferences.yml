@@ -123,7 +123,7 @@
   deadline:
     - "2025-04-25 23:59"
     - "2025-09-18 23:59"
-  comment: Two deadlines. Spring 2025-04-18, Fall 2025-09-11, 11:59 pm US PDT.
+  comment: Two deadlines. Spring 2025-04-18, Fall 2025-09-11.
   place: Renton, WA, USA
   tags: [NS, CA, ASTAR]
 
@@ -199,7 +199,7 @@
   deadline:
     - "2026-03-17 23:59"
     - "2026-09-15 23:59"
-  comment: Two submission cycles: spring and fall. Deadlines are AoE.
+  comment: Two submission cycles-spring and fall. Deadlines are AoE.
   place: Renton, Washington, USA
   tags: [NS, CA, ASTAR]
 
@@ -221,7 +221,7 @@
   link: https://www.usenix.org/conferences/byname/179
   dblp: https://dblp.org/db/conf/osdi/index.html
   deadline: []
-  comment: USENIX lists OSDI '27 as Jul 7-9, 2027 in Baltimore, MD, USA. CFP/deadlines not publicly posted yet on the referenced listing at time of update.
+  comment: CFP/deadlines not publicly posted yet on the referenced listing at time of update.
   date: July 7-9
   place: Baltimore, MD, USA
   tags: [NS, CA, ASTAR]
