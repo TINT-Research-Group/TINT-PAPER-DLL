@@ -1,8 +1,8 @@
 ---
 # ===== Research Area Tags =====
-- name: Network & System
+- name: "Network & System"
   tag: NS
-- name: Security & Privacy
+- name: "Security & Privacy"
   tag: SP
 - name: Artificial Intelligence
   tag: TAI
