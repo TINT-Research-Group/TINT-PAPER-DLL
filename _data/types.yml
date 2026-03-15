@@ -1,35 +1,33 @@
----
 # ===== Research Area Tags =====
 - name: "Network & System"
   tag: NS
 - name: "Security & Privacy"
   tag: SP
-- name: Artificial Intelligence
+- name: "Artificial Intelligence"
   tag: TAI
-- name: Miscellaneous
+- name: "Miscellaneous"
   tag: MISC
 
 # ===== CCF Rank =====
-- name: CCF-A
+- name: "CCF-A"
   tag: CA
-- name: CCF-B
+- name: "CCF-B"
   tag: CB
-- name: CCF-C
+- name: "CCF-C"
   tag: CC
 
 # ===== CORE Rank =====
-- name: CORE A*
+- name: "CORE A*"
   tag: ASTAR
-- name: CORE A
+- name: "CORE A"
   tag: A
-- name: CORE B
+- name: "CORE B"
   tag: B
-- name: CORE C
+- name: "CORE C"
   tag: C
 
 # ===== Preference Tags =====
-- name: Travel-friendly
+- name: "Travel-friendly"
   tag: TRAVEL
-
-- name: Reputation
+- name: "Reputation"
   tag: TOP
