@@ -339,7 +339,7 @@
     - "2026-01-13 23:59"   
   comment: Three submission cycles (Summer/Fall/Winter).
   place: Ann Arbor, Michigan, USA (University of Michigan)
-  tags: [NS, CB, ASTAR]
+  tags: [MISC, CB, ASTAR]
 
 - name: SIGMETRICS (TBA)
   year: 2027
@@ -353,7 +353,7 @@
     - "2027-01-13 23:59"   
   comment: Three submission cycles (Summer/Fall/Winter). Waiting for announcement.
   place: Atlanta, Georgia, USA
-  tags: [NS, CB, ASTAR]
+  tags: [MISC, CB, ASTAR]
 
 # AI
 - name: AAAI
