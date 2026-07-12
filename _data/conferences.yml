@@ -431,7 +431,7 @@
     - "2026-10-17 23:59"
   comment: Abstract registration required (1 week before deadline AoE).
   place: Huntington Beach, CA, USA
-  tags: [MISC, MISC, CA, ASTAR]
+  tags: [MISC, CA, ASTAR]
 
 - name: SIGMOD
   description: ACM SIGMOD/PODS International Conference on Management of Data
@@ -445,7 +445,7 @@
     - "2025-10-17 23:59"
   comment: Four Round
   place: Bengaluru, India
-  tags: [MISC, MISC, CA, ASTAR]
+  tags: [MISC, CA, ASTAR]
 
 - name: The Web Conference
   description: International Conference on the World Wide Web
