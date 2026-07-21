@@ -57,6 +57,19 @@
   place: The Hague, The Netherlands
   tags: [SP, CA, ASTAR, TRAVEL, TOP]
 
+- name: CCS (TBA)
+  description: ACM Conference on Computer and Communications Security
+  year: 2027
+  date: November 15-19
+  link: https://www.sigsac.org/ccs/CCS2027
+  dblp: https://dblp.org/db/conf/ccs/index.html
+  deadline:
+    - "2027-01-14 23:59"
+    - "2027-04-29 23:59"
+  comment: Abstract registration required (1 week before deadline AoE).
+  place: The Atlanta, USA
+  tags: [SP, CA, ASTAR, TRAVEL, TOP]
+
 - name: USENIX Security
   description: USENIX Security Symposium
   year: 2026
