@@ -1,46 +1,46 @@
 # security: s&p (oakland), ccs, usenix security, ndss, raid, esorics, asiaccs
 # networking: sigcomm, nsdi, conext, imc, icnp, icdcs, mobicom
-# system: sosp, osdi, eurosys, mlsys, asplos, atc
-# ai: aaai, icml, nips, kdd
-# misc: vldb, sigmod, www, stoc, focs
+# systems: fast, sosp, osdi, eurosys, mlsys, asplos, atc
+# ai: aaai, icml, neurips, kdd
+# misc: sigmetrics, vldb, sigmod, www, stoc, focs
 
 # Security
 - name: USENIX Security
   description: USENIX Security Symposium
   year: 2027
-  date: August 11–13
+  date: August 11-13
   link: https://www.usenix.org/conference/usenixsecurity27
   dblp: https://dblp.org/db/conf/uss/index.html
   deadline:
-    - "2026-08-25 23:59"
-    - "2027-01-26 23:59"
-  comment: Abstract registration required (1 week before deadline AoE).
+    - "2026-08-18 23:59"
+    - "2027-01-19 23:59"
+  comment: "Mandatory paper-registration deadlines shown; full papers are due August 25, 2026 and January 26, 2027 (AoE)."
   place: Denver, CO, USA
   tags: [SP, CA, ASTAR, TOP]
 
 - name: S&P (Oakland)
+  description: IEEE Symposium on Security and Privacy
   year: 2027
   date: May 18-21
-  description: IEEE Symposium on Security and Privacy
   link: https://sp2027.ieee-security.org/
   dblp: https://dblp.org/db/conf/sp/index.html
   deadline:
-    - "2026-06-11 23:59"
+    - "2026-06-04 23:59"
     - "2026-11-10 23:59"
-  comment: Abstract registration required (1 week before deadline AoE).
-  place: Montreal, CANADA
-  tags: [SP, CA, ASTAR, TOP]
+  comment: "Mandatory abstract-registration deadlines shown; full papers are due June 11 and November 17, 2026 (AoE)."
+  place: Montréal, Québec, Canada
+  tags: [SP, CA, ASTAR, TOP, TRAVEL]
 
 - name: S&P (Oakland)
+  description: IEEE Symposium on Security and Privacy
   year: 2026
   date: May 18-21
-  description: IEEE Symposium on Security and Privacy
   link: https://sp2026.ieee-security.org/
   dblp: https://dblp.org/db/conf/sp/index.html
   deadline:
-    - "2025-06-05 23:59"
-    - "2025-11-13 23:59"
-  comment: Abstract registration required (1 week before deadline AoE).
+    - "2025-05-29 23:59"
+    - "2025-11-06 23:59"
+  comment: "Mandatory abstract-registration deadlines shown; full papers are due June 5 and November 13, 2025 (AoE)."
   place: San Francisco, California, USA
   tags: [SP, CA, ASTAR, TOP]
 
@@ -48,27 +48,25 @@
   description: ACM Conference on Computer and Communications Security
   year: 2026
   date: November 15-19
-  link: https://www.sigsac.org/ccs/CCS2026
+  link: https://www.sigsac.org/ccs/CCS2026/
   dblp: https://dblp.org/db/conf/ccs/index.html
   deadline:
-    - "2026-01-14 23:59"
-    - "2026-04-29 23:59"
-  comment: Abstract registration required (1 week before deadline AoE).
+    - "2026-01-07 23:59"
+    - "2026-04-22 23:59"
+  comment: "Mandatory paper-registration deadlines shown; full papers are due January 14 and April 29, 2026 (AoE)."
   place: The Hague, The Netherlands
-  tags: [SP, CA, ASTAR, TRAVEL, TOP]
+  tags: [SP, CA, ASTAR, TOP]
 
 - name: CCS (TBA)
   description: ACM Conference on Computer and Communications Security
   year: 2027
   date: November 15-19
-  link: https://www.sigsac.org/ccs/CCS2027
+  link: https://www.sigsac.org/ccs/CCS2027/
   dblp: https://dblp.org/db/conf/ccs/index.html
-  deadline:
-    - "2027-01-14 23:59"
-    - "2027-04-29 23:59"
-  comment: Abstract registration required (1 week before deadline AoE).
-  place: The Atlanta, USA
-  tags: [SP, CA, ASTAR, TRAVEL, TOP]
+  deadline: []
+  comment: "Official CCS 2027 submission deadlines have not been announced."
+  place: Atlanta, Georgia, USA
+  tags: [SP, CA, ASTAR, TOP]
 
 - name: USENIX Security
   description: USENIX Security Symposium
@@ -77,14 +75,14 @@
   link: https://www.usenix.org/conference/usenixsecurity26
   dblp: https://dblp.org/db/conf/uss/index.html
   deadline:
-    - "2025-08-26 23:59"
-    - "2026-02-05 23:59"
-  comment: Abstract registration required (1 week before deadline AoE).
+    - "2025-08-19 23:59"
+    - "2026-01-29 23:59"
+  comment: "Mandatory paper-registration deadlines shown; full papers are due August 26, 2025 and February 5, 2026 (AoE)."
   place: Baltimore, MD, USA
   tags: [SP, CA, ASTAR, TOP]
 
 - name: NDSS
-  description: ISOC Network and Distributed System Security Symposium
+  description: Network and Distributed System Security Symposium
   year: 2026
   date: February 23-26
   link: https://www.ndss-symposium.org/ndss2026/submissions/call-for-papers/
@@ -92,12 +90,12 @@
   deadline:
     - "2025-04-23 23:59"
     - "2025-08-06 23:59"
-  comment: Abstract registration required (1 week before deadline AoE).
+  comment: "No separate abstract-registration deadline; full-paper deadlines shown (AoE)."
   place: San Diego, CA, USA
   tags: [SP, CA, ASTAR, TOP]
 
 - name: NDSS
-  description: ISOC Network and Distributed System Security Symposium
+  description: Network and Distributed System Security Symposium
   year: 2027
   date: February 23-27
   link: https://www.ndss-symposium.org/ndss2027/submissions/call-for-papers/
@@ -105,42 +103,49 @@
   deadline:
     - "2026-05-06 23:59"
     - "2026-08-19 23:59"
-  comment: Abstract registration required (1 week before deadline AoE).
-  place: Seoul, Korea
+  comment: "No separate abstract-registration deadline; full-paper deadlines shown (AoE)."
+  place: Seoul, South Korea
   tags: [SP, CA, ASTAR, TOP]
 
 - name: RAID
   description: International Symposium on Research in Attacks, Intrusions and Defenses
   year: 2026
   date: October 11-14
-  link: https://raid2026.org
-  deadline: ["2026-04-16 23:59"]
+  link: https://raid2026.org/
+  dblp: https://dblp.org/db/conf/raid/index.html
+  deadline:
+    - "2026-04-16 23:59"
+  comment: "No separate abstract-registration deadline; full-paper deadline shown (AoE)."
   place: Lancaster, UK
-  tags: [SP, CB, A]
+  tags: [SP, CB, A, TRAVEL]
 
 - name: ESORICS
   description: European Symposium on Research in Computer Security
   year: 2026
   date: September 21-25
   link: https://sites.google.com/di.uniroma1.it/esorics2026/
+  dblp: https://dblp.org/db/conf/esorics/index.html
   deadline:
     - "2026-01-09 23:59"
     - "2026-04-21 23:59"
+  comment: "No separate abstract-registration deadline; full-paper deadlines shown (AoE)."
   place: Rome, Italy
-  tags: [SP, CB, B, TRAVEL]
+  tags: [SP, CB, B]
 
 - name: ASIACCS
   description: ACM Asia Conference on Computer and Communications Security
   year: 2026
   date: June 1-6
   link: https://asiaccs2026.cse.iitkgp.ac.in/call-for-papers/
+  dblp: https://dblp.org/db/conf/ccs/index.html
   deadline:
     - "2025-08-25 23:59"
     - "2025-12-12 23:59"
-  place: Bangalore, India
+  comment: "No separate abstract-registration deadline; full-paper deadlines shown (AoE)."
+  place: Bengaluru, India
   tags: [SP, CC, A]
 
-# Network
+# Networking
 - name: NSDI
   description: USENIX Symposium on Networked Systems Design and Implementation
   year: 2027
@@ -150,19 +155,20 @@
   deadline:
     - "2026-04-16 23:59"
     - "2026-09-10 23:59"
-  comment: Two deadlines. Spring abstract 2026-04-16, Fall abstract 2026-09-10.
+  timezone: America/New_York
+  comment: "Mandatory title-and-abstract deadlines shown; full papers are due April 23 and September 17, 2026."
   place: Providence, RI, USA
   tags: [NS, CA, ASTAR]
-  
+
 - name: SIGCOMM
   description: ACM SIGCOMM Conference
-  year: 2026    
+  year: 2026
   date: August 17-21
   link: https://conferences.sigcomm.org/sigcomm/2026/
   dblp: https://dblp.org/db/conf/sigcomm/index.html
   deadline:
     - "2026-01-30 23:59"
-  comment: Abstract registration required (2026-01-30 AoE shown as abstract registration).
+  comment: "Mandatory abstract-registration deadline shown; full paper is due February 6, 2026 (AoE)."
   place: Denver, Colorado, USA
   tags: [NS, CA, ASTAR]
 
@@ -173,36 +179,38 @@
   link: https://www.usenix.org/conference/nsdi26
   dblp: https://dblp.org/db/conf/nsdi/index.html
   deadline:
-    - "2025-04-25 23:59"
-    - "2025-09-18 23:59"
-  comment: Two deadlines. Spring 2025-04-18, Fall 2025-09-11.
-  place: Renton, WA, USA
+    - "2025-04-18 23:59"
+    - "2025-09-11 23:59"
+  timezone: America/Los_Angeles
+  comment: "Mandatory title-and-abstract deadlines shown; full papers are due April 25 and September 18, 2025."
+  place: Renton, Washington, USA
   tags: [NS, CA, ASTAR]
 
 - name: CoNEXT
-  description: International Conference on emerging Networking Experiments and Technologies
+  description: International Conference on Emerging Networking Experiments and Technologies
   year: 2026
   date: December 7-10
   link: https://conferences.sigcomm.org/co-next/2026/
   dblp: https://dblp.org/db/conf/conext/index.html
   deadline:
-    - "2025-12-12 23:59"
-    - "2026-06-05 23:59"
-  comment: hybrid cycle (two submission opportunities).
+    - "2025-12-05 23:59"
+    - "2026-05-29 23:59"
+  comment: "Mandatory paper-registration deadlines shown; full papers are due December 12, 2025 and June 5, 2026 (AoE)."
   place: Utrecht, The Netherlands
   tags: [NS, CB, A]
 
 - name: ACM IMC
+  description: ACM Internet Measurement Conference
   year: 2026
   date: October 12-16
-  description: ACM Internet Measurement Conference
   link: https://conferences.sigcomm.org/imc/2026/
+  dblp: https://dblp.org/db/conf/imc/index.html
   deadline:
-    - "2025-11-20 23:59"
-    - "2026-04-29 23:59"
-  comment: Abstract registration required (1 week before deadline AoE).
+    - "2025-11-13 23:59"
+    - "2026-04-22 23:59"
+  comment: "Mandatory paper-registration deadlines shown; full papers are due November 20, 2025 and April 29, 2026 (AoE)."
   place: Karlsruhe, Germany
-  tags: [NS, CB, A]
+  tags: [NS, CB, A, TRAVEL]
 
 - name: ICNP
   description: IEEE International Conference on Network Protocols
@@ -211,8 +219,8 @@
   link: https://icnp26.cs.ucr.edu/
   dblp: https://dblp.org/db/conf/icnp/index.html
   deadline:
-    - "2026-05-22 23:59"
-  comment: Abstract registration 2026-05-15 AoE.
+    - "2026-05-15 23:59"
+  comment: "Mandatory abstract-registration deadline shown; full paper is due May 22, 2026 (AoE)."
   place: Tempe, Arizona, USA
   tags: [NS, CB, A]
 
@@ -224,7 +232,7 @@
   dblp: https://dblp.org/db/conf/icdcs/index.html
   deadline:
     - "2026-01-21 23:59"
-  comment: Research paper abstracts and papers are both listed as 2026-01-21 (AoE) on ICDCS 2026 site/CFP.
+  comment: "Research-paper abstract and full-paper submissions share the same deadline (AoE)."
   place: Seoul, South Korea
   tags: [NS, CA, A]
 
@@ -235,136 +243,140 @@
   link: https://www.sigmobile.org/mobicom/2026/
   dblp: https://dblp.org/db/conf/mobicom/index.html
   deadline:
-    - "2025-09-03 23:59"
-    - "2026-03-13 23:59"
-  comment: Two cycles (Summer/Winter); abstract registration required (Summer 2025-08-27 AoE, Winter 2026-03-06 AoE).
+    - "2025-08-27 23:59"
+    - "2026-03-06 23:59"
+  comment: "Mandatory abstract-registration deadlines shown; full papers are due September 3, 2025 and March 13, 2026 (AoE)."
   place: Austin, Texas, USA
-  tags: [NS, CA, ASTAR]  
+  tags: [NS, CA, ASTAR]
 
 # Systems
 - name: FAST
+  description: USENIX Conference on File and Storage Technologies
   year: 2027
   date: February 23-25
-  description: The 25th USENIX Conference on File and Storage Technologies
   link: https://www.usenix.org/conference/fast27
   dblp: https://dblp.org/db/conf/fast/index.html
   deadline:
     - "2026-03-17 23:59"
     - "2026-09-15 23:59"
-  comment: Two submission cycles-spring and fall. Deadlines are AoE.
+  comment: "No separate abstract-registration deadline; full-paper deadlines shown (AoE)."
   place: Renton, Washington, USA
   tags: [NS, CA, ASTAR]
 
 - name: SOSP
   description: ACM Symposium on Operating Systems Principles
   year: 2026
+  date: September 29-October 2
   link: https://sigops.org/s/conferences/sosp/2026/
   dblp: https://dblp.org/db/conf/sosp/index.html
   deadline:
-    - "2026-04-01 23:59"
-  comment: Abstract registration deadline 2026-03-26 (AoE).
-  date: September 29-October 2
+    - "2026-03-26 23:59"
+  comment: "Mandatory abstract-registration deadline shown; full paper is due April 1, 2026 (AoE)."
   place: Prague, Czechia
   tags: [NS, CA, ASTAR]
 
 - name: OSDI
   description: USENIX Symposium on Operating Systems Design and Implementation
   year: 2027
-  link: https://www.usenix.org/conferences/byname/179
-  dblp: https://dblp.org/db/conf/osdi/index.html
-  deadline: []
-  comment: CFP/deadlines not publicly posted yet on the referenced listing at time of update.
   date: July 7-9
+  link: https://www.usenix.org/conference/osdi27
+  dblp: https://dblp.org/db/conf/osdi/index.html
+  deadline:
+    - "2026-12-01 17:59"
+  timezone: America/New_York
+  comment: "Mandatory abstract-registration deadline shown; full paper is due December 8, 2026."
   place: Baltimore, MD, USA
   tags: [NS, CA, ASTAR]
 
 - name: EuroSys
   description: European Conference on Computer Systems
   year: 2026
+  date: April 27-30
   link: https://2026.eurosys.org/
   dblp: https://dblp.org/db/conf/eurosys/index.html
   deadline:
-    - "2025-05-15 23:59"
-    - "2025-09-25 23:59"
-  comment: Dual deadlines (AoE). Abstract deadlines 2025-05-08 and 2025-09-18. EuroSys 2027 official CFP/page was not found in this check, so this entry keeps EuroSys 2026 for reference.
-  date: April 27-30
+    - "2025-05-08 23:59"
+    - "2025-09-18 23:59"
+  comment: "Mandatory abstract-registration deadlines shown; full papers are due May 15 and September 25, 2025 (AoE)."
   place: Edinburgh, UK
   tags: [NS, CA, A, TRAVEL]
 
 - name: EuroSys
   description: European Conference on Computer Systems
   year: 2027
+  date: April 19-23
   link: https://2027.eurosys.org/
   dblp: https://dblp.org/db/conf/eurosys/index.html
   deadline:
-    - "2026-05-14 23:59"
-    - "2026-09-24 23:59"
-  comment: Abstract registration required (1 week before deadline AoE).
-  date: April 19-23
+    - "2026-05-07 23:59"
+    - "2026-09-17 23:59"
+  comment: "Mandatory abstract-registration deadlines shown; full papers are due May 14 and September 24, 2026 (AoE)."
   place: Rabat, Morocco
-  tags: [NS, CA, A, TRAVEL]
+  tags: [NS, CA, A]
 
 - name: MLSys
   description: Conference on Machine Learning and Systems
   year: 2026
+  date: May 18-22
   link: https://mlsys.org/
   dblp: https://dblp.org/db/conf/mlsys/index.html
   deadline:
-    - "2025-10-30 23:59"
-  comment: MLSys 2026 conference dates May 18-22, 2026.
-  place: Bellevue, WA, USA
+    - "2025-10-30 13:00"
+  timezone: America/Los_Angeles
+  comment: "No separate abstract-registration deadline; research and industry papers share this submission deadline."
+  place: Bellevue, Washington, USA
   tags: [NS, TAI]
 
 - name: ASPLOS
   description: ACM International Conference on Architectural Support for Programming Languages and Operating Systems
   year: 2027
+  date: TBD
   link: https://www.asplos-conference.org/asplos2026/call-for-papers-asplos27/
   dblp: https://dblp.org/db/conf/asplos/index.html
   deadline:
     - "2026-04-15 23:59"
     - "2026-09-09 23:59"
-  comment: ASPLOS 2027 CFP (AoE) lists two cycles Apr 15, 2026 and Sep 9, 2026. ASPLOS 2027 will be hosted in Crete, Greece.
-  date: TBD
+  comment: "The official CFP specifies no separate abstract deadline; full-paper deadlines shown (AoE)."
   place: Crete, Greece
-  tags: [NS, CA, ASTAR]
+  tags: [NS, CA, ASTAR, TRAVEL]
 
 - name: ATC
   description: ACM SIGOPS Annual Technical Conference
   year: 2026
+  date: November 16-18
   link: https://sigops.org/s/conferences/atc/2026/
   dblp: https://dblp.org/db/conf/usenix/index.html
   deadline:
     - "2026-06-10 23:59"
-  comment: ATC 2026 is now an ACM conference (ACM SIGOPS). Hong Kong.
-  date: November 15-18
-  place: Shatin, Hong Kong
+  comment: "No separate abstract-registration period; the extended abstract and full paper are submitted together."
+  place: Sha Tin, Hong Kong
   tags: [NS, CA, A, TRAVEL]
 
 - name: SIGMETRICS
+  description: ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems
   year: 2026
   date: June 8-12
-  description: ACM SIGMETRICS 2026 (ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems)
   link: https://www.sigmetrics.org/sigmetrics2026/
-  dblp: https://dblp.org/db/conf/sigmetrics/index
+  dblp: https://dblp.org/db/conf/sigmetrics/index.html
   deadline:
-    - "2025-07-29 23:59"   
-    - "2025-10-14 23:59"  
-    - "2026-01-13 23:59"   
-  comment: Three submission cycles (Summer/Fall/Winter).
-  place: Ann Arbor, Michigan, USA (University of Michigan)
+    - "2025-07-22 23:59"
+    - "2025-10-07 23:59"
+    - "2026-01-06 23:59"
+  comment: "Mandatory abstract-registration deadlines shown; full papers are due July 29, October 14, 2025 and January 13, 2026 (AoE)."
+  place: Ann Arbor, Michigan, USA
   tags: [MISC, CB, ASTAR]
 
-- name: SIGMETRICS (TBA)
+- name: SIGMETRICS
+  description: ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems
   year: 2027
-  date: June 8-12
-  description: ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems 2027
-  link: https://www.sigmetrics.org/sigmetrics2026/
-  dblp: https://dblp.org/db/conf/sigmetrics/index
+  date: TBD
+  link: https://www.sigmetrics.org/sigmetrics2027/
+  dblp: https://dblp.org/db/conf/sigmetrics/index.html
   deadline:
-    - "2026-07-29 23:59"   
-    - "2026-10-14 23:59"  
-    - "2027-01-13 23:59"   
-  comment: Three submission cycles (Summer/Fall/Winter). Waiting for announcement.
+    - "2026-07-03 23:59"
+    - "2026-10-02 23:59"
+    - "2027-01-04 23:59"
+  comment: "Mandatory abstract-registration deadlines shown; full papers are due July 10, October 9, 2026 and January 11, 2027 (AoE)."
   place: Atlanta, Georgia, USA
   tags: [MISC, CB, ASTAR]
 
@@ -372,91 +384,113 @@
 - name: AAAI
   description: AAAI Conference on Artificial Intelligence
   year: 2027
-  link: https://aaai.org/conference/aaai/
-  dblp: https://dblp.org/db/conf/aaai/index.html
-  deadline:    
-    - "2026-07-28 23:59"
-  comment: Abstract registration required (1 week before deadline AoE).
   date: February 16-23
+  link: https://aaai.org/conference/aaai/aaai-27/
+  dblp: https://dblp.org/db/conf/aaai/index.html
+  deadline:
+    - "2026-07-21 23:59"
+  comment: "Mandatory abstract deadline shown; full paper is due July 28, 2026 (AoE). Author-account registration dates are excluded."
   place: Montréal, Québec, Canada
-  tags: [TAI, CA, ASTAR]
+  tags: [TAI, CA, ASTAR, TRAVEL]
 
-- name: KDD (TBA)
+- name: KDD
   description: ACM SIGKDD Conference on Knowledge Discovery and Data Mining
   year: 2027
-  link: https://kdd2026.kdd.org//
+  date: August 1-5
+  link: https://kdd2027.kdd.org/
   dblp: https://dblp.org/db/conf/kdd/index.html
   deadline:
-    - "2026-07-31 23:59"
-    - "2027-02-08 23:59"
-  comment: Waiting for announcement.
-  date: August 09-13
-  place: TBD
+    - "2026-07-19 23:59"
+  comment: "First-cycle mandatory abstract deadline shown; the paper is due July 26, 2026 (AoE). Second-cycle dates have not been officially announced."
+  place: San Jose, California, USA
   tags: [TAI, CA, ASTAR]
 
 - name: ICML (TBA)
   description: International Conference on Machine Learning
   year: 2027
+  date: TBD
   link: https://icml.cc/
   dblp: https://dblp.org/db/conf/icml/index.html
-  deadline:
-    - "2027-01-23 23:59"
-    - "2027-01-28 23:59"
-  comment: Waiting for announcement.
-  date: July 6-11
-  place: TBD
+  deadline: []
+  comment: "Official ICML 2027 submission deadlines have not been announced."
+  place: South America
   tags: [TAI, CA, ASTAR]
 
-# - name: NeurIPS (TBA)
-#   description: Conference on Neural Information Processing Systems
-#   year: 2027
-#   link: https://neurips.cc/
-#   dblp: https://dblp.org/db/conf/nips/index.html
-#   deadline:
-#     - "2027-05-07 11:59"
-#   comment: Waiting for announcement.
-#   date: TBD
-#   place: TBD
-#   tags: [TAI, CA, ASTAR]
+- name: NeurIPS
+  description: Conference on Neural Information Processing Systems
+  year: 2026
+  date: December 6-12
+  link: https://neurips.cc/Conferences/2026
+  dblp: https://dblp.org/db/conf/nips/index.html
+  deadline:
+    - "2026-05-04 23:59"
+  comment: "Mandatory abstract deadline shown; full paper is due May 6, 2026 (AoE)."
+  place: Sydney, Australia
+  tags: [TAI, CA, ASTAR]
 
-# - name: NeurIPS
-#   description: Conference on Neural Information Processing Systems
-#   year: 2026
-#   link: https://neurips.cc/
-#   dblp: https://dblp.org/db/conf/nips/index.html
-#   deadline:
-#     - "2026-05-06 11:59"
-#   comment: Abstract registration required (2 days before deadline AoE).
-#   date: December 6-12
-#   place: Sydney, Australia
-#   tags: [TAI, CA, ASTAR, TRAVEL]
+- name: NeurIPS (TBA)
+  description: Conference on Neural Information Processing Systems
+  year: 2027
+  date: TBD
+  link: https://neurips.cc/
+  dblp: https://dblp.org/db/conf/nips/index.html
+  deadline: []
+  comment: "Official NeurIPS 2027 submission deadlines have not been announced."
+  place: Europe
+  tags: [TAI, CA, ASTAR]
 
 # Miscellaneous
+- name: VLDB
+  description: International Conference on Very Large Data Bases
+  year: 2027
+  date: August 23-27
+  link: https://www.vldb.org/2027/
+  dblp: https://dblp.org/db/conf/vldb/index.html
+  deadline:
+    - "2026-03-25 17:00"
+    - "2026-04-25 17:00"
+    - "2026-05-25 17:00"
+    - "2026-06-25 17:00"
+    - "2026-07-25 17:00"
+    - "2026-08-25 17:00"
+    - "2026-09-25 17:00"
+    - "2026-10-25 17:00"
+    - "2026-11-25 17:00"
+    - "2026-12-25 17:00"
+    - "2027-01-25 17:00"
+    - "2027-02-25 17:00"
+  timezone: America/Los_Angeles
+  comment: "Mandatory abstract deadlines shown for the twelve monthly cycles; full papers are due on the first day of the following month."
+  place: Athens, Greece
+  tags: [MISC, CA, ASTAR]
+
 - name: SIGMOD
   description: ACM SIGMOD/PODS International Conference on Management of Data
   year: 2027
+  date: TBD
   link: https://2027.sigmod.org/
   dblp: https://dblp.org/db/conf/sigmod/index.html
   deadline:
-    - "2026-01-17 23:59"
-    - "2026-04-17 23:59"
-    - "2026-07-17 23:59"
-    - "2026-10-17 23:59"
-  comment: Abstract registration required (1 week before deadline AoE).
-  place: Huntington Beach, CA, USA
+    - "2026-01-10 23:59"
+    - "2026-04-10 23:59"
+    - "2026-07-10 23:59"
+    - "2026-10-10 23:59"
+  comment: "Mandatory abstract and conflict-of-interest deadlines shown; full papers are due on the 17th of each listed month (AoE)."
+  place: Huntington Beach, California, USA
   tags: [MISC, CA, ASTAR]
 
 - name: SIGMOD
   description: ACM SIGMOD/PODS International Conference on Management of Data
   year: 2026
+  date: TBD
   link: https://2026.sigmod.org/
   dblp: https://dblp.org/db/conf/sigmod/index.html
   deadline:
-    - "2025-01-17 23:59"
-    - "2025-04-17 23:59"
-    - "2025-07-17 23:59"
-    - "2025-10-17 23:59"
-  comment: Four Round
+    - "2025-01-10 23:59"
+    - "2025-04-10 23:59"
+    - "2025-07-10 23:59"
+    - "2025-10-10 23:59"
+  comment: "Mandatory abstract and conflict-of-interest deadlines shown; full papers are due on the 17th of each listed month (AoE)."
   place: Bengaluru, India
   tags: [MISC, CA, ASTAR]
 
@@ -464,9 +498,11 @@
   description: International Conference on the World Wide Web
   year: 2026
   date: April 13-17
-  link: https://www2026.thewebconf.org
-  deadline: ["2025-10-07 23:59"]
-  comment: Abstract deadline September 30 AoE.
+  link: https://www2026.thewebconf.org/
+  dblp: https://dblp.org/db/conf/www/index.html
+  deadline:
+    - "2025-09-30 23:59"
+  comment: "Mandatory abstract deadline shown; full paper is due October 7, 2025 (AoE)."
   place: Dubai, United Arab Emirates
   tags: [MISC, CA, ASTAR]
 
@@ -474,32 +510,36 @@
   description: International Conference on the World Wide Web
   year: 2027
   date: TBD
-  link: https://www2027.thewebconf.org
-  deadline: ["2026-10-07 23:59"]
-  comment: Abstract deadline September 30 AoE.
+  link: https://www2027.thewebconf.org/
+  dblp: https://dblp.org/db/conf/www/index.html
+  deadline:
+    - "2026-10-11 23:59"
+  comment: "Mandatory abstract deadline shown; full paper is due October 18, 2026 (AoE)."
   place: Dublin, Ireland
+  tags: [MISC, CA, ASTAR, TRAVEL]
+
+- name: STOC
+  description: ACM Symposium on Theory of Computing
+  year: 2026
+  date: June 22-26
+  link: https://acm-stoc.org/stoc2026/
+  dblp: https://dblp.org/db/conf/stoc/index.html
+  deadline:
+    - "2025-11-04 16:59"
+  timezone: America/New_York
+  comment: "No separate abstract-registration deadline; complete-paper deadline shown."
+  place: Salt Lake City, Utah, USA
+  tags: [MISC, TAI, NS, CA, ASTAR]
+
+- name: FOCS
+  description: IEEE Symposium on Foundations of Computer Science
+  year: 2026
+  date: November 8-11
+  link: https://ieee-focs.org/
+  dblp: https://dblp.org/db/conf/focs/index.html
+  deadline:
+    - "2026-04-01 17:00"
+  timezone: America/New_York
+  comment: "No separate abstract-registration deadline; complete-paper deadline shown."
+  place: New York, USA
   tags: [MISC, CA, ASTAR]
-
-#- name: STOC
-  #description: ACM Symposium on Theory of Computing
-  #year: 2026
-  #date: June 22-26
-  #link: https://acm-stoc.org/stoc2026/
-  #dblp: https://dblp.org/db/conf/stoc/index.html
-  #deadline:
-    #- "2025-11-04 16:59"
-  #comment: Paper submission deadline is listed as Tuesday, Nov 4, 2025, 4:59pm EST.
-  #place: Salt Lake City, Utah, USA
-  #tags: [MISC, TAI, NS, CA, ASTAR]
-
-#- name: FOCS
-  #description: IEEE Symposium on Foundations of Computer Science
-  #year: 2026
-  #date: November 8-11
-  #link: https://ieee-focs.org/
-  #dblp: https://dblp.org/db/conf/focs/index.html
-  #deadline:
-    #- "2026-04-02 23:59"
-  #comment: Provisional entry. TCMF/aggregator listings show FOCS 2026 in New York, USA (Nov 8-11, 2026).
-  #place: New York, USA
-  #tags: [MISC, CA, ASTAR, TRAVEL]
