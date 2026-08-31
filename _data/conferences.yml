@@ -14,6 +14,15 @@
   deadline:
     - "2026-08-18 23:59"
     - "2027-01-19 23:59"
+  abstract_deadline:
+    - "2026-08-18 23:59"
+    - "2027-01-19 23:59"
+  full_paper_deadline:
+    - "2026-08-25 23:59"
+    - "2027-01-26 23:59"
+  first_round_decision:
+    - "2026-10-06 23:59"
+    - "2027-03-09 23:59"
   comment: "Mandatory paper-registration deadlines shown; full papers are due August 25, 2026 and January 26, 2027 (AoE)."
   place: Denver, CO, USA
   tags: [SP, CA, ASTAR, TOP]
@@ -27,6 +36,15 @@
   deadline:
     - "2026-06-04 23:59"
     - "2026-11-10 23:59"
+  abstract_deadline:
+    - "2026-06-04 23:59"
+    - "2026-11-10 23:59"
+  full_paper_deadline:
+    - "2026-06-11 23:59"
+    - "2026-11-17 23:59"
+  first_round_decision:
+    - "2026-07-27 23:59"
+    - "2027-01-18 23:59"
   comment: "Mandatory abstract-registration deadlines shown; full papers are due June 11 and November 17, 2026 (AoE)."
   place: Montréal, Québec, Canada
   tags: [SP, CA, ASTAR, TOP, TRAVEL]
@@ -40,6 +58,15 @@
   deadline:
     - "2025-05-29 23:59"
     - "2025-11-06 23:59"
+  abstract_deadline:
+    - "2025-05-29 23:59"
+    - "2025-11-06 23:59"
+  full_paper_deadline:
+    - "2025-06-05 23:59"
+    - "2025-11-13 23:59"
+  first_round_decision:
+    - "2025-07-21 23:59"
+    - "2026-01-19 23:59"
   comment: "Mandatory abstract-registration deadlines shown; full papers are due June 5 and November 13, 2025 (AoE)."
   place: San Francisco, California, USA
   tags: [SP, CA, ASTAR, TOP]
@@ -53,6 +80,15 @@
   deadline:
     - "2026-01-07 23:59"
     - "2026-04-22 23:59"
+  abstract_deadline:
+    - "2026-01-07 23:59"
+    - "2026-04-22 23:59"
+  full_paper_deadline:
+    - "2026-01-14 23:59"
+    - "2026-04-29 23:59"
+  first_round_decision:
+    - "2026-02-20 23:59"
+    - "2026-06-12 23:59"
   comment: "Mandatory paper-registration deadlines shown; full papers are due January 14 and April 29, 2026 (AoE)."
   place: The Hague, The Netherlands
   tags: [SP, CA, ASTAR, TOP]
@@ -64,6 +100,9 @@
   link: https://www.sigsac.org/ccs/CCS2027/
   dblp: https://dblp.org/db/conf/ccs/index.html
   deadline: []
+  abstract_deadline: ["TBA"]
+  full_paper_deadline: ["TBA"]
+  first_round_decision: ["TBA"]
   comment: "Official CCS 2027 submission deadlines have not been announced."
   place: Atlanta, Georgia, USA
   tags: [SP, CA, ASTAR, TOP]
@@ -77,6 +116,15 @@
   deadline:
     - "2025-08-19 23:59"
     - "2026-01-29 23:59"
+  abstract_deadline:
+    - "2025-08-19 23:59"
+    - "2026-01-29 23:59"
+  full_paper_deadline:
+    - "2025-08-26 23:59"
+    - "2026-02-05 23:59"
+  first_round_decision:
+    - "2025-10-07 23:59"
+    - "2026-03-17 23:59"
   comment: "Mandatory paper-registration deadlines shown; full papers are due August 26, 2025 and February 5, 2026 (AoE)."
   place: Baltimore, MD, USA
   tags: [SP, CA, ASTAR, TOP]
@@ -90,6 +138,13 @@
   deadline:
     - "2025-04-23 23:59"
     - "2025-08-06 23:59"
+  abstract_deadline: ["N/A", "N/A"]
+  full_paper_deadline:
+    - "2025-04-23 23:59"
+    - "2025-08-06 23:59"
+  first_round_decision:
+    - "2025-05-28 23:59"
+    - "2025-09-17 23:59"
   comment: "No separate abstract-registration deadline; full-paper deadlines shown (AoE)."
   place: San Diego, CA, USA
   tags: [SP, CA, ASTAR, TOP]
@@ -103,6 +158,13 @@
   deadline:
     - "2026-05-06 23:59"
     - "2026-08-19 23:59"
+  abstract_deadline: ["N/A", "N/A"]
+  full_paper_deadline:
+    - "2026-05-06 23:59"
+    - "2026-08-19 23:59"
+  first_round_decision:
+    - "2026-06-18 23:59"
+    - "2026-09-25 23:59"
   comment: "No separate abstract-registration deadline; full-paper deadlines shown (AoE)."
   place: Seoul, South Korea
   tags: [SP, CA, ASTAR, TOP]
@@ -115,6 +177,11 @@
   dblp: https://dblp.org/db/conf/raid/index.html
   deadline:
     - "2026-04-16 23:59"
+  abstract_deadline: ["N/A"]
+  full_paper_deadline:
+    - "2026-04-16 23:59"
+  first_round_decision:
+    - "2026-07-10 23:59"
   comment: "No separate abstract-registration deadline; full-paper deadline shown (AoE)."
   place: Lancaster, UK
   tags: [SP, CB, A, TRAVEL]
@@ -128,6 +195,13 @@
   deadline:
     - "2026-01-09 23:59"
     - "2026-04-21 23:59"
+  abstract_deadline: ["N/A", "N/A"]
+  full_paper_deadline:
+    - "2026-01-09 23:59"
+    - "2026-04-21 23:59"
+  first_round_decision:
+    - "2026-03-10 23:59"
+    - "2026-06-12 23:59"
   comment: "No separate abstract-registration deadline; full-paper deadlines shown (AoE)."
   place: Rome, Italy
   tags: [SP, CB, B]
@@ -141,6 +215,13 @@
   deadline:
     - "2025-08-25 23:59"
     - "2025-12-12 23:59"
+  abstract_deadline: ["N/A", "N/A"]
+  full_paper_deadline:
+    - "2025-08-25 23:59"
+    - "2025-12-12 23:59"
+  first_round_decision:
+    - "2025-10-01 23:59"
+    - "2026-01-21 23:59"
   comment: "No separate abstract-registration deadline; full-paper deadlines shown (AoE)."
   place: Bengaluru, India
   tags: [SP, CC, A]
@@ -155,6 +236,15 @@
   deadline:
     - "2026-04-16 23:59"
     - "2026-09-10 23:59"
+  abstract_deadline:
+    - "2026-04-16 23:59"
+    - "2026-09-10 23:59"
+  full_paper_deadline:
+    - "2026-04-23 23:59"
+    - "2026-09-17 23:59"
+  first_round_decision:
+    - "2026-07-23 23:59"
+    - "2026-12-08 23:59"
   timezone: America/New_York
   comment: "Mandatory title-and-abstract deadlines shown; full papers are due April 23 and September 17, 2026."
   place: Providence, RI, USA
@@ -168,6 +258,12 @@
   dblp: https://dblp.org/db/conf/sigcomm/index.html
   deadline:
     - "2026-01-30 23:59"
+  abstract_deadline:
+    - "2026-01-30 23:59"
+  full_paper_deadline:
+    - "2026-02-06 23:59"
+  first_round_decision:
+    - "2026-04-02 23:59"
   comment: "Mandatory abstract-registration deadline shown; full paper is due February 6, 2026 (AoE)."
   place: Denver, Colorado, USA
   tags: [NS, CA, ASTAR]
@@ -181,6 +277,15 @@
   deadline:
     - "2025-04-18 23:59"
     - "2025-09-11 23:59"
+  abstract_deadline:
+    - "2025-04-18 23:59"
+    - "2025-09-11 23:59"
+  full_paper_deadline:
+    - "2025-04-25 23:59"
+    - "2025-09-18 23:59"
+  first_round_decision:
+    - "2025-07-24 23:59"
+    - "2025-12-09 23:59"
   timezone: America/Los_Angeles
   comment: "Mandatory title-and-abstract deadlines shown; full papers are due April 25 and September 18, 2025."
   place: Renton, Washington, USA
@@ -195,6 +300,13 @@
   deadline:
     - "2025-12-05 23:59"
     - "2026-05-29 23:59"
+  abstract_deadline:
+    - "2025-12-05 23:59"
+    - "2026-05-29 23:59"
+  full_paper_deadline:
+    - "2025-12-12 23:59"
+    - "2026-06-05 23:59"
+  first_round_decision: ["TBA", "TBA"]
   comment: "Mandatory paper-registration deadlines shown; full papers are due December 12, 2025 and June 5, 2026 (AoE)."
   place: Utrecht, The Netherlands
   tags: [NS, CB, A]
@@ -208,6 +320,15 @@
   deadline:
     - "2025-11-13 23:59"
     - "2026-04-22 23:59"
+  abstract_deadline:
+    - "2025-11-13 23:59"
+    - "2026-04-22 23:59"
+  full_paper_deadline:
+    - "2025-11-20 23:59"
+    - "2026-04-29 23:59"
+  first_round_decision:
+    - "2026-02-03 23:59"
+    - "2026-06-25 23:59"
   comment: "Mandatory paper-registration deadlines shown; full papers are due November 20, 2025 and April 29, 2026 (AoE)."
   place: Karlsruhe, Germany
   tags: [NS, CB, A, TRAVEL]
@@ -220,6 +341,12 @@
   dblp: https://dblp.org/db/conf/icnp/index.html
   deadline:
     - "2026-05-15 23:59"
+  abstract_deadline:
+    - "2026-05-15 23:59"
+  full_paper_deadline:
+    - "2026-05-22 23:59"
+  first_round_decision:
+    - "2026-07-21 23:59"
   comment: "Mandatory abstract-registration deadline shown; full paper is due May 22, 2026 (AoE)."
   place: Tempe, Arizona, USA
   tags: [NS, CB, A]
@@ -232,6 +359,12 @@
   dblp: https://dblp.org/db/conf/icdcs/index.html
   deadline:
     - "2026-01-21 23:59"
+  abstract_deadline:
+    - "2026-01-21 23:59"
+  full_paper_deadline:
+    - "2026-01-21 23:59"
+  first_round_decision:
+    - "2026-04-27 23:59"
   comment: "Research-paper abstract and full-paper submissions share the same deadline (AoE)."
   place: Seoul, South Korea
   tags: [NS, CA, A]
@@ -245,6 +378,15 @@
   deadline:
     - "2025-08-27 23:59"
     - "2026-03-06 23:59"
+  abstract_deadline:
+    - "2025-08-27 23:59"
+    - "2026-03-06 23:59"
+  full_paper_deadline:
+    - "2025-09-03 23:59"
+    - "2026-03-13 23:59"
+  first_round_decision:
+    - "2025-10-28 23:59"
+    - "2026-05-21 23:59"
   comment: "Mandatory abstract-registration deadlines shown; full papers are due September 3, 2025 and March 13, 2026 (AoE)."
   place: Austin, Texas, USA
   tags: [NS, CA, ASTAR]
@@ -259,6 +401,13 @@
   deadline:
     - "2026-03-17 23:59"
     - "2026-09-15 23:59"
+  abstract_deadline: ["N/A", "N/A"]
+  full_paper_deadline:
+    - "2026-03-17 23:59"
+    - "2026-09-15 23:59"
+  first_round_decision:
+    - "TBA"
+    - "TBA"
   comment: "No separate abstract-registration deadline; full-paper deadlines shown (AoE)."
   place: Renton, Washington, USA
   tags: [NS, CA, ASTAR]
@@ -271,6 +420,12 @@
   dblp: https://dblp.org/db/conf/sosp/index.html
   deadline:
     - "2026-03-26 23:59"
+  abstract_deadline:
+    - "2026-03-26 23:59"
+  full_paper_deadline:
+    - "2026-04-01 23:59"
+  first_round_decision:
+    - "2026-07-03 23:59"
   comment: "Mandatory abstract-registration deadline shown; full paper is due April 1, 2026 (AoE)."
   place: Prague, Czechia
   tags: [NS, CA, ASTAR]
@@ -283,6 +438,12 @@
   dblp: https://dblp.org/db/conf/osdi/index.html
   deadline:
     - "2026-12-01 17:59"
+  abstract_deadline:
+    - "2026-12-01 17:59"
+  full_paper_deadline:
+    - "2026-12-08 17:59"
+  first_round_decision:
+    - "2027-03-16 23:59"
   timezone: America/New_York
   comment: "Mandatory abstract-registration deadline shown; full paper is due December 8, 2026."
   place: Baltimore, MD, USA
@@ -297,6 +458,15 @@
   deadline:
     - "2025-05-08 23:59"
     - "2025-09-18 23:59"
+  abstract_deadline:
+    - "2025-05-08 23:59"
+    - "2025-09-18 23:59"
+  full_paper_deadline:
+    - "2025-05-15 23:59"
+    - "2025-09-25 23:59"
+  first_round_decision:
+    - "2025-08-22 23:59"
+    - "2026-01-30 23:59"
   comment: "Mandatory abstract-registration deadlines shown; full papers are due May 15 and September 25, 2025 (AoE)."
   place: Edinburgh, UK
   tags: [NS, CA, A, TRAVEL]
@@ -310,6 +480,15 @@
   deadline:
     - "2026-05-07 23:59"
     - "2026-09-17 23:59"
+  abstract_deadline:
+    - "2026-05-07 23:59"
+    - "2026-09-17 23:59"
+  full_paper_deadline:
+    - "2026-05-14 23:59"
+    - "2026-09-24 23:59"
+  first_round_decision:
+    - "2026-08-21 23:59"
+    - "2027-01-29 23:59"
   comment: "Mandatory abstract-registration deadlines shown; full papers are due May 14 and September 24, 2026 (AoE)."
   place: Rabat, Morocco
   tags: [NS, CA, A]
@@ -322,6 +501,11 @@
   dblp: https://dblp.org/db/conf/mlsys/index.html
   deadline:
     - "2025-10-30 13:00"
+  abstract_deadline: ["N/A"]
+  full_paper_deadline:
+    - "2025-10-30 13:00"
+  first_round_decision:
+    - "2026-01-26 13:00"
   timezone: America/Los_Angeles
   comment: "No separate abstract-registration deadline; research and industry papers share this submission deadline."
   place: Bellevue, Washington, USA
@@ -336,6 +520,13 @@
   deadline:
     - "2026-04-15 23:59"
     - "2026-09-09 23:59"
+  abstract_deadline: ["N/A", "N/A"]
+  full_paper_deadline:
+    - "2026-04-15 23:59"
+    - "2026-09-09 23:59"
+  first_round_decision:
+    - "TBA"
+    - "TBA"
   comment: "The official CFP specifies no separate abstract deadline; full-paper deadlines shown (AoE)."
   place: Crete, Greece
   tags: [NS, CA, ASTAR, TRAVEL]
@@ -348,6 +539,11 @@
   dblp: https://dblp.org/db/conf/usenix/index.html
   deadline:
     - "2026-06-10 23:59"
+  abstract_deadline: ["N/A"]
+  full_paper_deadline:
+    - "2026-06-10 23:59"
+  first_round_decision:
+    - "2026-08-01 23:59"
   comment: "No separate abstract-registration period; the extended abstract and full paper are submitted together."
   place: Sha Tin, Hong Kong
   tags: [NS, CA, A, TRAVEL]
@@ -362,6 +558,18 @@
     - "2025-07-22 23:59"
     - "2025-10-07 23:59"
     - "2026-01-06 23:59"
+  abstract_deadline:
+    - "2025-07-22 23:59"
+    - "2025-10-07 23:59"
+    - "2026-01-06 23:59"
+  full_paper_deadline:
+    - "2025-07-29 23:59"
+    - "2025-10-14 23:59"
+    - "2026-01-13 23:59"
+  first_round_decision:
+    - "2025-09-26 23:59"
+    - "2025-12-12 23:59"
+    - "2026-03-13 23:59"
   comment: "Mandatory abstract-registration deadlines shown; full papers are due July 29, October 14, 2025 and January 13, 2026 (AoE)."
   place: Ann Arbor, Michigan, USA
   tags: [MISC, CB, ASTAR]
@@ -376,6 +584,18 @@
     - "2026-07-03 23:59"
     - "2026-10-02 23:59"
     - "2027-01-04 23:59"
+  abstract_deadline:
+    - "2026-07-03 23:59"
+    - "2026-10-02 23:59"
+    - "2027-01-04 23:59"
+  full_paper_deadline:
+    - "2026-07-10 23:59"
+    - "2026-10-09 23:59"
+    - "2027-01-11 23:59"
+  first_round_decision:
+    - "2026-09-09 23:59"
+    - "2026-12-09 23:59"
+    - "2027-03-10 23:59"
   comment: "Mandatory abstract-registration deadlines shown; full papers are due July 10, October 9, 2026 and January 11, 2027 (AoE)."
   place: Atlanta, Georgia, USA
   tags: [MISC, CB, ASTAR]
@@ -389,6 +609,12 @@
   dblp: https://dblp.org/db/conf/aaai/index.html
   deadline:
     - "2026-07-21 23:59"
+  abstract_deadline:
+    - "2026-07-21 23:59"
+  full_paper_deadline:
+    - "2026-07-28 23:59"
+  first_round_decision:
+    - "2026-09-24 23:59"
   comment: "Mandatory abstract deadline shown; full paper is due July 28, 2026 (AoE). Author-account registration dates are excluded."
   place: Montréal, Québec, Canada
   tags: [TAI, CA, ASTAR, TRAVEL]
@@ -401,6 +627,12 @@
   dblp: https://dblp.org/db/conf/kdd/index.html
   deadline:
     - "2026-07-19 23:59"
+  abstract_deadline:
+    - "2026-07-19 23:59"
+  full_paper_deadline:
+    - "2026-07-26 23:59"
+  first_round_decision:
+    - "2026-11-14 23:59"
   comment: "First-cycle mandatory abstract deadline shown; the paper is due July 26, 2026 (AoE). Second-cycle dates have not been officially announced."
   place: San Jose, California, USA
   tags: [TAI, CA, ASTAR]
@@ -412,6 +644,9 @@
   link: https://icml.cc/
   dblp: https://dblp.org/db/conf/icml/index.html
   deadline: []
+  abstract_deadline: ["TBA"]
+  full_paper_deadline: ["TBA"]
+  first_round_decision: ["TBA"]
   comment: "Official ICML 2027 submission deadlines have not been announced."
   place: South America
   tags: [TAI, CA, ASTAR]
@@ -424,6 +659,12 @@
   dblp: https://dblp.org/db/conf/nips/index.html
   deadline:
     - "2026-05-04 23:59"
+  abstract_deadline:
+    - "2026-05-04 23:59"
+  full_paper_deadline:
+    - "2026-05-06 23:59"
+  first_round_decision:
+    - "2026-09-24 23:59"
   comment: "Mandatory abstract deadline shown; full paper is due May 6, 2026 (AoE)."
   place: Sydney, Australia
   tags: [TAI, CA, ASTAR]
@@ -435,6 +676,9 @@
   link: https://neurips.cc/
   dblp: https://dblp.org/db/conf/nips/index.html
   deadline: []
+  abstract_deadline: ["TBA"]
+  full_paper_deadline: ["TBA"]
+  first_round_decision: ["TBA"]
   comment: "Official NeurIPS 2027 submission deadlines have not been announced."
   place: Europe
   tags: [TAI, CA, ASTAR]
@@ -459,6 +703,45 @@
     - "2026-12-25 17:00"
     - "2027-01-25 17:00"
     - "2027-02-25 17:00"
+  abstract_deadline:
+    - "2026-03-25 17:00"
+    - "2026-04-25 17:00"
+    - "2026-05-25 17:00"
+    - "2026-06-25 17:00"
+    - "2026-07-25 17:00"
+    - "2026-08-25 17:00"
+    - "2026-09-25 17:00"
+    - "2026-10-25 17:00"
+    - "2026-11-25 17:00"
+    - "2026-12-25 17:00"
+    - "2027-01-25 17:00"
+    - "2027-02-25 17:00"
+  full_paper_deadline:
+    - "2026-04-01 17:00"
+    - "2026-05-01 17:00"
+    - "2026-06-01 17:00"
+    - "2026-07-01 17:00"
+    - "2026-08-01 17:00"
+    - "2026-09-01 17:00"
+    - "2026-10-01 17:00"
+    - "2026-11-01 17:00"
+    - "2026-12-01 17:00"
+    - "2027-01-01 17:00"
+    - "2027-02-01 17:00"
+    - "2027-03-01 17:00"
+  first_round_decision:
+    - "2026-05-15 17:00"
+    - "2026-06-15 17:00"
+    - "2026-07-15 17:00"
+    - "2026-08-15 17:00"
+    - "2026-09-15 17:00"
+    - "2026-10-15 17:00"
+    - "2026-11-15 17:00"
+    - "2026-12-15 17:00"
+    - "2027-01-15 17:00"
+    - "2027-02-15 17:00"
+    - "2027-03-15 17:00"
+    - "2027-04-15 17:00"
   timezone: America/Los_Angeles
   comment: "Mandatory abstract deadlines shown for the twelve monthly cycles; full papers are due on the first day of the following month."
   place: Athens, Greece
@@ -475,6 +758,21 @@
     - "2026-04-10 23:59"
     - "2026-07-10 23:59"
     - "2026-10-10 23:59"
+  abstract_deadline:
+    - "2026-01-10 23:59"
+    - "2026-04-10 23:59"
+    - "2026-07-10 23:59"
+    - "2026-10-10 23:59"
+  full_paper_deadline:
+    - "2026-01-17 23:59"
+    - "2026-04-17 23:59"
+    - "2026-07-17 23:59"
+    - "2026-10-17 23:59"
+  first_round_decision:
+    - "2026-04-19 23:59"
+    - "2026-07-19 23:59"
+    - "2026-10-19 23:59"
+    - "2027-01-19 23:59"
   comment: "Mandatory abstract and conflict-of-interest deadlines shown; full papers are due on the 17th of each listed month (AoE)."
   place: Huntington Beach, California, USA
   tags: [MISC, CA, ASTAR]
@@ -490,6 +788,21 @@
     - "2025-04-10 23:59"
     - "2025-07-10 23:59"
     - "2025-10-10 23:59"
+  abstract_deadline:
+    - "2025-01-10 23:59"
+    - "2025-04-10 23:59"
+    - "2025-07-10 23:59"
+    - "2025-10-10 23:59"
+  full_paper_deadline:
+    - "2025-01-17 23:59"
+    - "2025-04-17 23:59"
+    - "2025-07-17 23:59"
+    - "2025-10-17 23:59"
+  first_round_decision:
+    - "2025-04-04 23:59"
+    - "2025-07-04 23:59"
+    - "2025-10-04 23:59"
+    - "2026-01-04 23:59"
   comment: "Mandatory abstract and conflict-of-interest deadlines shown; full papers are due on the 17th of each listed month (AoE)."
   place: Bengaluru, India
   tags: [MISC, CA, ASTAR]
@@ -502,6 +815,12 @@
   dblp: https://dblp.org/db/conf/www/index.html
   deadline:
     - "2025-09-30 23:59"
+  abstract_deadline:
+    - "2025-09-30 23:59"
+  full_paper_deadline:
+    - "2025-10-07 23:59"
+  first_round_decision:
+    - "2026-01-13 23:59"
   comment: "Mandatory abstract deadline shown; full paper is due October 7, 2025 (AoE)."
   place: Dubai, United Arab Emirates
   tags: [MISC, CA, ASTAR]
@@ -513,8 +832,14 @@
   link: https://www2027.thewebconf.org/
   dblp: https://dblp.org/db/conf/www/index.html
   deadline:
-    - "2026-10-11 23:59"
-  comment: "Mandatory abstract deadline shown; full paper is due October 18, 2026 (AoE)."
+    - "2026-10-18 23:59"
+  abstract_deadline:
+    - "2026-10-18 23:59"
+  full_paper_deadline:
+    - "2026-10-25 23:59"
+  first_round_decision:
+    - "2027-01-04 23:59"
+  comment: "Mandatory abstract deadline shown; full paper is due October 25, 2026 (AoE)."
   place: Dublin, Ireland
   tags: [MISC, CA, ASTAR, TRAVEL]
 
@@ -526,6 +851,11 @@
   dblp: https://dblp.org/db/conf/stoc/index.html
   deadline:
     - "2025-11-04 16:59"
+  abstract_deadline: ["N/A"]
+  full_paper_deadline:
+    - "2025-11-04 16:59"
+  first_round_decision:
+    - "2026-02-01 23:59"
   timezone: America/New_York
   comment: "No separate abstract-registration deadline; complete-paper deadline shown."
   place: Salt Lake City, Utah, USA
@@ -539,6 +869,11 @@
   dblp: https://dblp.org/db/conf/focs/index.html
   deadline:
     - "2026-04-01 17:00"
+  abstract_deadline: ["N/A"]
+  full_paper_deadline:
+    - "2026-04-01 17:00"
+  first_round_decision:
+    - "2026-07-03 23:59"
   timezone: America/New_York
   comment: "No separate abstract-registration deadline; complete-paper deadline shown."
   place: New York, USA
