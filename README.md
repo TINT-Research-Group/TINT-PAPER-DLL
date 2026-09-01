@@ -1,4 +1,8 @@
-# [TINT Paper Conference Deadlines](https://tint-research-group.github.io/TINT-PAPER-DDL/)
+> 网站建设中...请耐心等待🙏
+
+# [TINT-PAPER-Deadline](https://tint-research-group.github.io/TINT-PAPER-DDL/)
+
+This repository lists deadline countdowns for targeted conferences.
 
 本仓库维护 TINT Research Group 关注的学术会议时间，并提供倒计时和标签筛选功能。页面支持在以下三类时间之间切换：
 
@@ -8,9 +12,13 @@
 
 切换时间类型后，页面会同步更新时间、倒计时和会议排序，并在浏览器中保留当前选择。
 
-本项目参考了 [sec-deadlines/sec-deadlines.github.io](https://github.com/sec-deadlines/sec-deadlines.github.io)。
+> referencing [sec-deadlines/sec-deadlines.github.io](https://github.com/sec-deadlines/sec-deadlines.github.io)
 
-## 添加或更新会议
+## 添加/更新会议（How to add or update a conference）
+
+> We all share responsibility for keeping information up to date
+
+![Update](./static/img/update.jpg)
 
 会议数据位于 [`_data/conferences.yml`](./_data/conferences.yml)。更新时请遵循以下流程：
 
@@ -20,6 +28,8 @@
 4. 分别确认 Abstract、Full Paper 和 First-round Decision 的含义、日期、时间与时区。不要把 rebuttal、camera-ready 或最终录用日期误记为首轮结果。
 5. 更新 `link`、日期字段和必要的 `comment`，并保持无关会议及原有排序不变。
 6. 提交前按照下方的[数据检查清单](#数据检查清单)复核；有仓库写入权限时可直接提交，否则请发起 Pull Request。
+
+> More detail can be found from [URL](https://tint-research-group.github.io/TINT-PAPER-DDL/)
 
 如果官方尚未公布某项日期，请使用 `TBA`，不要根据往年日程推算。官方明确不存在某项时间时使用 `N/A`。
 
