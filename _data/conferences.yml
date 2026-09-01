@@ -1,7 +1,7 @@
 # security: s&p (oakland), ccs, usenix security, ndss, raid, esorics, asiaccs
 # networking: sigcomm, nsdi, conext, imc, icnp, icdcs, mobicom
 # systems: fast, sosp, osdi, eurosys, mlsys, asplos, atc
-# ai: aaai, icml, neurips, kdd
+# ai: acl, aaai, iclr, icml, neurips, kdd
 # misc: sigmetrics, vldb, sigmod, www, stoc, focs
 
 # Security
@@ -96,14 +96,14 @@
 - name: CCS (TBA)
   description: ACM Conference on Computer and Communications Security
   year: 2027
-  date: November 15-19
+  date: October (dates TBA)
   link: https://www.sigsac.org/ccs/CCS2027/
   dblp: https://dblp.org/db/conf/ccs/index.html
   deadline: []
   abstract_deadline: ["TBA"]
   full_paper_deadline: ["TBA"]
   first_round_decision: ["TBA"]
-  comment: "Official CCS 2027 submission deadlines have not been announced."
+  comment: "The official site announces CCS 2027 for October in Atlanta; exact conference dates and paper-submission deadlines have not been announced."
   place: Atlanta, Georgia, USA
   tags: [SP, CA, ASTAR, TOP]
 
@@ -408,7 +408,7 @@
   first_round_decision:
     - "TBA"
     - "TBA"
-  comment: "No separate abstract-registration deadline; full-paper deadlines shown (AoE)."
+  comment: "No separate abstract-registration deadline; full-paper deadlines shown (AoE). The official CFP mentions early rejection but does not publish exact early-rejection dates."
   place: Renton, Washington, USA
   tags: [NS, CA, ASTAR]
 
@@ -514,8 +514,8 @@
 - name: ASPLOS
   description: ACM International Conference on Architectural Support for Programming Languages and Operating Systems
   year: 2027
-  date: TBD
-  link: https://www.asplos-conference.org/asplos2026/call-for-papers-asplos27/
+  date: April 11-15
+  link: https://www.asplos-conference.org/asplos2027/cfp/
   dblp: https://dblp.org/db/conf/asplos/index.html
   deadline:
     - "2026-04-15 23:59"
@@ -527,7 +527,7 @@
   first_round_decision:
     - "TBA"
     - "TBA"
-  comment: "The official CFP specifies no separate abstract deadline; full-paper deadlines shown (AoE)."
+  comment: "The official CFP specifies no separate abstract deadline; full-paper deadlines shown (AoE). A rapid review round is described, but no exact rapid-return dates are published."
   place: Crete, Greece
   tags: [NS, CA, ASTAR, TRAVEL]
 
@@ -601,6 +601,20 @@
   tags: [MISC, CB, ASTAR]
 
 # AI
+- name: ACL (TBA)
+  description: Annual Meeting of the Association for Computational Linguistics
+  year: 2027
+  date: August 17-22
+  link: https://2027.aclweb.org/
+  dblp: https://dblp.org/db/conf/acl/index.html
+  deadline: []
+  abstract_deadline: ["TBA"]
+  full_paper_deadline: ["TBA"]
+  first_round_decision: ["TBA"]
+  comment: "The official ACL 2027 site confirms the conference dates and location; ARR submission, commitment, and acceptance-notification dates have not been announced."
+  place: Kyoto, Japan
+  tags: [TAI, CA, ASTAR]
+
 - name: AAAI
   description: AAAI Conference on Artificial Intelligence
   year: 2027
@@ -637,17 +651,35 @@
   place: San Jose, California, USA
   tags: [TAI, CA, ASTAR]
 
+- name: ICLR
+  description: International Conference on Learning Representations
+  year: 2027
+  date: April 26-30
+  link: https://www.iclr.cc/Conferences/2027/CallForPapers
+  dblp: https://dblp.org/db/conf/iclr/index.html
+  deadline:
+    - "2026-09-18 23:59"
+  abstract_deadline:
+    - "2026-09-18 23:59"
+  full_paper_deadline:
+    - "2026-09-25 23:59"
+  first_round_decision:
+    - "2026-12-16 23:59"
+  comment: "Mandatory abstract deadline shown; full paper is due September 25, 2026, and final decisions are scheduled for December 16, 2026 (AoE)."
+  place: California, USA
+  tags: [TAI, ASTAR, TOP]
+
 - name: ICML (TBA)
   description: International Conference on Machine Learning
   year: 2027
   date: TBD
-  link: https://icml.cc/
+  link: https://icml.cc/Conferences/FutureMeetings
   dblp: https://dblp.org/db/conf/icml/index.html
   deadline: []
   abstract_deadline: ["TBA"]
   full_paper_deadline: ["TBA"]
   first_round_decision: ["TBA"]
-  comment: "Official ICML 2027 submission deadlines have not been announced."
+  comment: "The official future-meetings page confirms South America for ICML 2027; exact conference dates and submission deadlines have not been announced."
   place: South America
   tags: [TAI, CA, ASTAR]
 
@@ -673,13 +705,13 @@
   description: Conference on Neural Information Processing Systems
   year: 2027
   date: TBD
-  link: https://neurips.cc/
+  link: https://neurips.cc/Conferences/FutureMeetings
   dblp: https://dblp.org/db/conf/nips/index.html
   deadline: []
   abstract_deadline: ["TBA"]
   full_paper_deadline: ["TBA"]
   first_round_decision: ["TBA"]
-  comment: "Official NeurIPS 2027 submission deadlines have not been announced."
+  comment: "The official future-meetings page confirms Europe for NeurIPS 2027; exact conference dates and submission deadlines have not been announced."
   place: Europe
   tags: [TAI, CA, ASTAR]
 
