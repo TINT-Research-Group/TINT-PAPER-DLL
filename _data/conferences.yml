@@ -91,7 +91,7 @@
     - "2026-06-12 23:59"
   comment: "Mandatory paper-registration deadlines shown; full papers are due January 14 and April 29, 2026 (AoE)."
   place: The Hague, The Netherlands
-  tags: [SP, CA, ASTAR, TOP]
+  tags: [SP, CA, ASTAR, TOP, TRAVEL]
 
 - name: CCS (TBA)
   description: ACM Conference on Computer and Communications Security
@@ -167,7 +167,7 @@
     - "2026-09-25 23:59"
   comment: "No separate abstract-registration deadline; full-paper deadlines shown (AoE)."
   place: Seoul, South Korea
-  tags: [SP, CA, ASTAR, TOP]
+  tags: [SP, CA, ASTAR, TOP, TRAVEL]
 
 - name: RAID
   description: International Symposium on Research in Attacks, Intrusions and Defenses
@@ -204,7 +204,7 @@
     - "2026-06-12 23:59"
   comment: "No separate abstract-registration deadline; full-paper deadlines shown (AoE)."
   place: Rome, Italy
-  tags: [SP, CB, B]
+  tags: [SP, CB, B, TRAVEL]
 
 - name: ASIACCS
   description: ACM Asia Conference on Computer and Communications Security
@@ -367,7 +367,7 @@
     - "2026-04-27 23:59"
   comment: "Research-paper abstract and full-paper submissions share the same deadline (AoE)."
   place: Seoul, South Korea
-  tags: [NS, CA, A]
+  tags: [NS, CA, A, TRAVEL]
 
 - name: MobiCom
   description: ACM International Conference on Mobile Computing and Networking
@@ -491,7 +491,7 @@
     - "2027-01-29 23:59"
   comment: "Mandatory abstract-registration deadlines shown; full papers are due May 14 and September 24, 2026 (AoE)."
   place: Rabat, Morocco
-  tags: [NS, CA, A]
+  tags: [NS, CA, A, TRAVEL]
 
 - name: MLSys
   description: Conference on Machine Learning and Systems
@@ -577,7 +577,7 @@
 - name: SIGMETRICS
   description: ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems
   year: 2027
-  date: TBD
+  date: June 7-11
   link: https://www.sigmetrics.org/sigmetrics2027/
   dblp: https://dblp.org/db/conf/sigmetrics/index.html
   deadline:
@@ -613,7 +613,7 @@
   first_round_decision: ["TBA"]
   comment: "The official ACL 2027 site confirms the conference dates and location; ARR submission, commitment, and acceptance-notification dates have not been announced."
   place: Kyoto, Japan
-  tags: [TAI, CA, ASTAR]
+  tags: [TAI, CA, ASTAR, TRAVEL]
 
 - name: AAAI
   description: AAAI Conference on Artificial Intelligence
@@ -699,7 +699,7 @@
     - "2026-09-24 23:59"
   comment: "Mandatory abstract deadline shown; full paper is due May 6, 2026 (AoE)."
   place: Sydney, Australia
-  tags: [TAI, CA, ASTAR]
+  tags: [TAI, CA, ASTAR, TRAVEL]
 
 - name: NeurIPS (TBA)
   description: Conference on Neural Information Processing Systems
@@ -782,7 +782,7 @@
 - name: SIGMOD
   description: ACM SIGMOD/PODS International Conference on Management of Data
   year: 2027
-  date: TBD
+  date: June 13-19
   link: https://2027.sigmod.org/
   dblp: https://dblp.org/db/conf/sigmod/index.html
   deadline:
@@ -860,7 +860,7 @@
 - name: The Web Conference
   description: International Conference on the World Wide Web
   year: 2027
-  date: TBD
+  date: May 10-14
   link: https://www2027.thewebconf.org/
   dblp: https://dblp.org/db/conf/www/index.html
   deadline:
@@ -870,8 +870,8 @@
   full_paper_deadline:
     - "2026-10-25 23:59"
   first_round_decision:
-    - "2027-01-04 23:59"
-  comment: "Mandatory abstract deadline shown; full paper is due October 25, 2026 (AoE)."
+    - "2026-12-21 23:59"
+  comment: "Mandatory abstract deadline shown; full paper is due October 25, 2026, initial results are released December 21, 2026, and final notification is January 4, 2027 (AoE)."
   place: Dublin, Ireland
   tags: [MISC, CA, ASTAR, TRAVEL]
 
