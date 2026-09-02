@@ -1,0 +1,158 @@
+/* Calendar view — loaded only by calendar.html, alongside deadlines.css. */
+
+.view-switch {
+  margin-left: 1.5em;
+}
+
+/* Breathing room below the grid — otherwise the page stops dead at the last row. */
+.cal-view {
+  padding-bottom: 5em;
+}
+
+/* ---- toolbar ---- */
+
+.cal-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin: 1.8em 0 1em;
+}
+
+.cal-title {
+  font-size: 1.55em;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-left: 8px;
+}
+
+.cal-count {
+  color: #999;
+  font-size: 0.9em;
+}
+
+.cal-legend {
+  flex-basis: 100%;
+  margin: 2px 0 0 2px;
+  font-size: 0.85em;
+  color: #666;
+}
+
+.cal-legend-item {
+  margin-right: 18px;
+}
+
+.cal-swatch {
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  border-radius: 2px;
+  margin-right: 5px;
+}
+
+/* ---- grid ---- */
+
+.cal-weekdays,
+.cal-grid {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 6px;
+}
+
+.cal-weekday {
+  text-align: center;
+  font-size: 0.86em;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #aaa;
+  padding: 2px 0 6px;
+}
+
+.cal-day {
+  position: relative;
+  min-height: 116px;
+  padding: 6px 7px 8px;
+  border: 1px solid #ececec;
+  border-radius: 6px;
+  background: #fff;
+  overflow: hidden;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.cal-day:hover {
+  border-color: #d5d5d5;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+
+.cal-day.other-month {
+  background: #fbfbfb;
+  border-color: #f2f2f2;
+}
+
+.cal-day.other-month .cal-daynum { color: #ccc; }
+
+.cal-day.is-past { opacity: 0.55; }
+
+.cal-day.is-today {
+  border-color: #333;
+  box-shadow: inset 0 0 0 1px #333;
+}
+
+.cal-daynum {
+  display: block;
+  font-size: 0.95em;
+  font-weight: 600;
+  color: #777;
+  margin-bottom: 5px;
+}
+
+.cal-day.is-today .cal-daynum {
+  display: inline-block;
+  background: #333;
+  color: #fff;
+  border-radius: 11px;
+  padding: 0 7px;
+}
+
+/* ---- deadline chips ---- */
+
+.cal-ev {
+  display: block;
+  font-size: 0.8em;
+  line-height: 1.4;
+  overflow-wrap: break-word;
+  padding: 3px 6px 3px 7px;
+  margin-bottom: 3px;
+  border: none;
+  border-left: 3px solid #999;
+  border-radius: 3px;
+  background: #f2f2f2;
+  color: #333;
+  transition: filter 0.15s ease;
+}
+
+.cal-ev:hover {
+  filter: brightness(0.96);
+  color: #333;
+}
+
+/* Colour by research area (the tag classes index.html already puts on .conf) */
+
+.cal-ev-NS   { border-left-color: #2f6fb0; background: #eaf1f9; }
+.cal-ev-SP   { border-left-color: #c0392b; background: #fbeceb; }
+.cal-ev-TAI  { border-left-color: #7b52ab; background: #f2ecfa; }
+.cal-ev-MISC { border-left-color: #3f8f7b; background: #e9f4f1; }
+
+.cal-swatch-NS   { background: #2f6fb0; }
+.cal-swatch-SP   { background: #c0392b; }
+.cal-swatch-TAI  { background: #7b52ab; }
+.cal-swatch-MISC { background: #3f8f7b; }
+
+@media (max-width: 767px) {
+  .view-switch { display: block; margin: 0.6em 0 0; }
+  .cal-legend { margin: 0.4em 0 0; }
+  .cal-legend-item { margin-right: 14px; }
+  .cal-day { min-height: 72px; padding: 4px; }
+  .cal-ev { font-size: 0.7em; }
+}
